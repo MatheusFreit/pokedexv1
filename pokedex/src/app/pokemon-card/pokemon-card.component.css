@@ -1,0 +1,10 @@
+.pokemon{
+background: #eee;
+border: 1px solid rgb(170, 170, 170);
+padding: 15px;
+margin: 50px;
+border-radius: 10px;
+box-shadow: 0px 1px 6px black;
+border-color: rgba(223, 225, 229, 0);
+}
+.pokemon:hover{border-top: 5px solid black; border-bottom: 6px solid black;}
