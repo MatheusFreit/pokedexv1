@@ -20,5 +20,5 @@ Abra o navegador e vá para http://localhost:4200.
 
 ## Imagens
 
-<img  src="https://github.com/MatheusFreit/pokedexv1/blob/main/pokedex/imagens/imagens.PNG" Alt = "bitcoin">
-<img src="https://github.com/MatheusFreit/pokedexv1/blob/main/pokedex/imagens/imagens2.PNG" Alt = "bitcoin">
+<img  src="https://github.com/MatheusFreit/pokedexv1/blob/main/pokedex/imagens/imagens.PNG" Alt = "pokemon2">
+<img src="https://github.com/MatheusFreit/pokedexv1/blob/main/pokedex/imagens/imagens2.PNG" Alt = "pokemon1">
